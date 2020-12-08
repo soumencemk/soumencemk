@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hi there 
+I am a software Developer with 9+ years of experience in Enterprise app - backend development, specialised in JVM languages like Java, Kotlin and Frameworks like Spring :) 
+## ⚡ Stats 
+![Soumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumencemk&show_icons=true)
+
+## 📫 Get in touch
+
+- [Twitter](https://twitter.com/itssoumen)
+- [Linked In](https://www.linkedin.com/in/itssoumen/)
 
 <!--
 **soumencemk/soumencemk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
