@@ -4,8 +4,7 @@ I am a software Developer with 11+ years of experience in Enterprise app - backe
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/soumencemk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumencemk&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Chandra's Technologies on GitHub" width="400"/></a>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumencemk&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Soumen Karmakar" width="400"/></a>  
 <p/>
 
 <a href="https://github.com/soumencemk">
