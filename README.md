@@ -1,4 +1,4 @@
-# 👋 Hi there 
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=28&pause=1000&random=false&width=435&lines=Hi+There%2C+its+me%2C+Soumen+!)](https://git.io/typing-svg)
 I am a software Developer with 12+ years of experience in Enterprise app - backend development, specialised in JVM languages like Java, Kotlin and Frameworks like Spring :) 
 
 ## &#x1f4c8; GitHub Stats
